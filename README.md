@@ -26,7 +26,7 @@ python setup.py build develop
 ln -s /path/to/your/coco/dataset datasets/coco
 
 # Enter a specific experiment dir 
-cd playground/
+cd playground/detection/coco/bs_mask/boundary_refine_mask_rcnn_r50_ms_1x_3_subgt_warpping_dice_erode_dilate_gn
 
 
 # Train
